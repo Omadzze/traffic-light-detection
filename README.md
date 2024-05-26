@@ -2,7 +2,7 @@
 
 This project explores the potential of active learning to minimize labeling efforts while maintaining performance in training an object detection model for traffic lights. We develop an active learning framework and evaluate its effectiveness on two datasets: the Bosch Small Traffic Lights Dataset and a custom dataset from the DAI-Labor at TU Berlin.
 
-NOTE: Not all files and function were uploaded, due to privacy reasons. 
+NOTE: Not all files and function were uploaded, due to privacy reasons. Moreover, all work were done in Gitlab
 
 ## Key Objectives
 Establish a Framework: Develop a framework for training an object detection model with an automatic active learning loop using the labeled Bosch Small Traffic Lights Dataset.
